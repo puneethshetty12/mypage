@@ -1,0 +1,2 @@
+# mypage
+My sample page
